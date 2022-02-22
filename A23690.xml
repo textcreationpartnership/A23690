@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Absalom's conspiracy, or, The tragedy of treason</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A23690</idno>
+            <idno type="STC">Wing A109</idno>
+            <idno type="STC">ESTC R1335</idno>
+            <idno type="EEBO-CITATION">12886227</idno>
+            <idno type="OCLC">ocm 12886227</idno>
+            <idno type="VID">95028</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A23690)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95028)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Absalom's conspiracy, or, The tragedy of treason</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An allegory referring to the Duke of Monmouth's rebellion and the Earl of Shaftesbury.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Monmouth, James Scott, --  Duke of, 1649-1685.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:95028:1" rendition="simple:additions"/>
+            <head>Abſalom's Conſpiracy; OR, THE TRAGEDY OF TREASON.</head>
+            <p>THere is nothing ſo dangerous either to Societies in General, or to parti<g ref="char:EOLhyphen"/>cular Perſons, as Ambition; the Temptations of Sovereignty, and the glittering Luſtre of a Crown, have been guilty of all the fearful Con<g ref="char:EOLhyphen"/>ſequences that can be within the compaſs of imagination: For this, Mighty Nations have been drown'd in Blood, populous Cities have been made de<g ref="char:EOLhyphen"/>ſolate, laid in Aſhes, and left without Inhabitants: For this, Parents have loſt all the ſenſe and tenderneſs of Nature; and Children, all the Sentiments of Duty and Obedience; the Eternal Laws of Good and Juſt, the Laws of Nature and of Nations, of God and Religion, have been violated; Men have been transfor<g ref="char:EOLhyphen"/>med into the cruelty of Beaſts, and into the Rage and Malice of Devils.</p>
+            <p>Inſtances both Modern and Ancient of this, are innumerable; but this of <hi>Abſa<g ref="char:EOLhyphen"/>lom</hi> is a Tragedy whoſe Antiquity and Truth, do equally recommend it as an Ex<g ref="char:EOLhyphen"/>ample to all Poſterity, and a Caution to all Mankind, to take care how they im<g ref="char:EOLhyphen"/>barque in ambitious and unlawful Deſigns; and it is a particular Caveat to all young men, to beware of ſuch Counſellors, as the old <hi>Achitophel,</hi> leſt while they are tempted with the hopes of a Crown, they haſten on their own Deſtiny, and come to an untimely End.</p>
+            <p>
+               <hi>Abſalom</hi> was the third Son of <hi>David</hi> by <hi>Maachah,</hi> the Daughter of <hi>Talmai,</hi> King of <hi>Geſhur;</hi> who was one of <hi>David</hi>'s Concubines; he ſeeing his Title to the Crown upon the ſcore of lawful Succeſſion would not do, reſolves to make good what was defective in it, by open force, by dethroning his Father.</p>
+            <p>Now the Arts he uſed to accompliſh his Deſign, were theſe: Firſt, He ſtudied Popularity; he roſe up early; he was induſtrious and diligent in his way; he pla<g ref="char:EOLhyphen"/>ced himſelf in the way of the Gate; and when any man came for Judgment, he courteouſly entred into Diſcourſe with him. This feigned Condeſcention, was the firſt Step of his Ambition. Secondly, He depraved his Fathers Government; the King was careleſs, drown'd in his Pleaſures; the Counſellors were evil; no no man regarded the Petitioners; <hi>Abſalom</hi> ſaid unto him, See thy matters are good and right, it is but reaſon that you petition for; but there is no man that will hear thee from the King; there is no Juſtice to be found; your Petitions are rejected. Thirdly, He inſinuates what he would do if he were in Autho<g ref="char:EOLhyphen"/>rity; how eaſie acceſs ſhould be to him; he would do them Juſtice; he would hear and redreſs their Grievances, receive their Petitions, and give them gracious
+<pb n="2" facs="tcp:95028:2" rendition="simple:additions"/>Anſwers. <hi>Oh that I were made Judge in the Land, that every Man might come un<g ref="char:EOLhyphen"/>to me, and I would do him Juſtice.</hi> And when any man came to do him Obeyſance, he put forth his hand, and took him, and kiſſed him: And thus he ſtole away the Hearts of the People from their Lawful King, his Father and Sovereign.</p>
+            <p>But all this would not do; he therefore joyns himſelf to one <hi>Achitophel,</hi> an old Man of a Shrewd Head, and diſcontented Heart. This <hi>Achitophel,</hi> it ſeems, had been a great Councellour of <hi>David's;</hi> but was now under ſome Diſgrace, as ap<g ref="char:EOLhyphen"/>pears, by <hi>Abſalom's</hi> ſending for him from <hi>Gilo,</hi> his City whither he was in diſcon<g ref="char:EOLhyphen"/>tent retreated; becauſe <hi>David</hi> had advanced <hi>Huſhai</hi> into his Privy Council; and no doubt can be made, but he was of the Conſpiracy before, by his ready joyning with <hi>Abſalom</hi> ſo ſoon as the matters were ripe for Execution.</p>
+            <p>
+               <hi>Abſalom</hi> having thus laid his Train, and made ſecret Proviſion for his intended Rebellion, diſpatches his Emiſſaries abroad, to give notice by his Spies, that all the Confederates ſhould be ready at the ſound of the Trumpet, ſay, <hi>Abſalom Reign<g ref="char:EOLhyphen"/>eth in</hi> Hebron; and immediately a great Multitude was gathered to him: For the the Conſpiracy was ſtrong; ſome went out of Malice, and ſome in their ſimplici<g ref="char:EOLhyphen"/>ty followed him, and knew not any thing.</p>
+            <p>
+               <hi>David</hi> is forced to fly from his own Son; but ſtill he had a Loyal Party that ſtuck cloſe to him. <hi>Achitophel</hi> gave deviliſh Counſel, but God diſſappointed it ſtrangely: For <hi>Huſhai</hi> pretending to come over to their Party, put <hi>Abſalom</hi> up<g ref="char:EOLhyphen"/>on a plauſible expedient. which proved his Ruine. So impoſſible is it for Trea<g ref="char:EOLhyphen"/>ſon to be ſecure, that no perſon who forms a Conſpiracy, but there may be ſome, who under pretence of the greateſt kindneſs, may inſinuate themſelves, only to diſcover their Secrets, and ruine their Intentions, either by revealing their Trea<g ref="char:EOLhyphen"/>ſon, or diſappointing it; and certainly, of all men, Traytors are leaſt to be tru<g ref="char:EOLhyphen"/>ſted: For they who can be perfidious to one, can never be true to any.</p>
+            <p>The Matter comes at laſt to the deciſion of the Sword. <hi>Abſalom's</hi> Party are de<g ref="char:EOLhyphen"/>feated, and many ſlain, and <hi>Abſalom</hi> himſelf ſeeking to ſave himſelf by flight in the Wood, is entangled in a Tree, by his own Hair, which was his Pride; and his Mule going from under him, there left him hanging, till <hi>Joab</hi> came, and with three Darts, made at once an end of his Life and the Rebellion. Thus ended his youthful and fooliſh Ambition, making him an Eternal Monument of Infamy, and an inſtance of the Juſtice of Divine Vengeance, and what will be the Conclu<g ref="char:EOLhyphen"/>ſion of Ambition, Treaſon and Conſpiracy againſt Lawful Kings and Governours; A ſevere Admonition to all green Heads, to avoid the Temptations of grey <hi>Achi<g ref="char:EOLhyphen"/>tophels.</hi>
+            </p>
+            <p>
+               <hi>Achitophel</hi> the Engineer of all this Miſchief, ſeeing his Counſel deſpiſed, and foreſeeing the Event, prevented the hand of the Executioner, and in revenge up<g ref="char:EOLhyphen"/>on himſelf, went home and hanged himſelf, giving fair warning to all treacherous Councellors, to ſee what their Deviliſh Counſels will lead them to at laſt: Miſ<g ref="char:EOLhyphen"/>chievous Counſel ever falling in Concluſion upon the Heads where firſt it was contrived, as naturally as dirty Kennels fall into the Common-Sewer.</p>
+            <p>Whatſoever was written aforetime, was written for our Inſtruction: For Holy Men of God, ſpake as they were moved by the Holy Ghoſt.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed in the Year, 1680.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
